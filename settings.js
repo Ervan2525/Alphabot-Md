@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "Shion Bot"
 global.ownername= "Shion Bot"
-global.myweb ="https://chat.whatsapp.com/FSRzDXiXXMVFT9WxHxWPAY"
+global.myweb ="https://vm.tiktok.com/ZSepfJJtF/"
 global.youtube = "https://youtube.com/c/Ervan"
 global.github = "http://github.com/Ervan2525"
 global.ownernomer = "61426656718"
